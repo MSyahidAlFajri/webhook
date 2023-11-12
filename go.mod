@@ -5,9 +5,6 @@ go 1.21.3
 require (
 	github.com/GoogleCloudPlatform/functions-framework-go v1.8.0
 	github.com/aiteung/atapi v0.1.1
-	github.com/aiteung/atmessage v0.1.0
-	github.com/aiteung/module v0.1.0
-	github.com/whatsauth/wa v0.2.6
 	github.com/whatsauth/webhook v0.0.10
 )
 
@@ -27,7 +24,6 @@ require (
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/gorilla/websocket v1.5.1 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -65,4 +61,11 @@ require (
 	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
+)
+
+require (
+	github.com/aiteung/atmessage v0.1.0
+	github.com/aiteung/module v0.1.0
+	github.com/google/go-querystring v1.1.0 // indirect
+	github.com/whatsauth/wa v0.2.6
 )
