@@ -1,4 +1,4 @@
-module github.com/MSyahidAlFajri/webhook
+module github.com/MSyahidAlFajri/webhookk
 
 go 1.21.3
 
